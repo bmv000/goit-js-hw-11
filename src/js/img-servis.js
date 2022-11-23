@@ -1,6 +1,6 @@
 
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-import axios from 'axios';
+// import axios from 'axios';
 const axios = require('axios').default;
 
 const API_KEY = '31491634-f9e5a76d496e450b9a690dee6';
